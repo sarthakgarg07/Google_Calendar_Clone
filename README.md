@@ -142,6 +142,4 @@ Validation is enforced by Zod in `src/lib/validation.ts`. API responses surface 
 - **Hot reload lag**: ensure you run `npm run dev` (not `next dev --turbo`) because Turbopack is disabled for this assignment.
 
 ---
-
-Built with ❤️ to mirror Google Calendar’s feel while keeping the stack approachable and well-documented. Let me know if you need a walkthrough of any architectural decision.
 # Google_Calendar_Clone
