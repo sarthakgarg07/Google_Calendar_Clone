@@ -1,6 +1,6 @@
-# Nimbus Calendar
+# Google Calendar Clone
 
-Nimbus Calendar is a high-fidelity clone of Google Calendar built with Next.js 16 (App Router) and Prisma. It reproduces the core scheduling flows—month/week/day navigation, inline event creation, editing, deletion, and real-time updates—while emphasising smooth interactions and polished UI micro-details.
+This project is a high-fidelity clone of Google Calendar built with Next.js 16 (App Router) and Prisma. It reproduces the core scheduling flows—month/week/day navigation, inline event creation, editing, deletion, and real-time updates—while emphasising smooth interactions and polished UI micro-details.
 
 ## Features
 
@@ -81,7 +81,7 @@ The `HOME=...` override keeps Prisma’s binary downloads inside the repo so rev
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to use Nimbus Calendar. If your machine forbids binding to `0.0.0.0:3000`, start the server with `npm run dev -- --hostname 127.0.0.1 --port 3001` instead.
+Visit [http://localhost:3000](http://localhost:3000) to use the calendar. If your machine forbids binding to `0.0.0.0:3000`, start the server with `npm run dev -- --hostname 127.0.0.1 --port 3001` instead.
 
 ### Linting
 

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nimbus Calendar",
+  title: "Google Calendar Clone",
   description:
     "A high fidelity Google Calendar clone built for the Scaler assignment.",
 };
