@@ -1,0 +1,3 @@
+# This file is created by hand because the default Prisma CLI could not run in the sandboxed environment.
+# See https://www.prisma.io/docs for details.
+provider = "sqlite"
